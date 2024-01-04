@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **React, JavaScript,Python, Django**
 
-- 📫 How to reach me **aja.anuragsri91@outlook.com**
+- 📫 How to reach me **aja.anuragsri01@outlook.com**
 
 - 📄 Know about my experiences [https://anuraagsrivastava.github.io/myresume/](https://anuraagsrivastava.github.io/myresume/)
 
